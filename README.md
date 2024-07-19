@@ -8,7 +8,8 @@ Multiple Wallets (Wallet Sets)
 Create Wallet Sets: Each Wallet Set includes a Master Wallet and several Sub Wallets.
 Customizable Settings: Users can configure fees, priority fees, slippage, and other parameters for each Wallet Set.
 Manage Balances: View balances, and private keys, and manage funding and withdrawals with low fees.
-![WalletWizard - Wallet Management](https://github.com/user-attachments/assets/d6de8db7-c628-4277-958b-5c6285b72b35)
+![WalletWizard - Wallet Management](https://github.com/user-attachments/assets/7be924e2-683a-4784-8a6f-1704dfbdf7c7)
+
 
 Flexible Token Bundler
 
